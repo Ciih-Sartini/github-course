@@ -10,3 +10,5 @@ Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
  
 =]
 
+Sobre os estágios de um arquivo: precisa modificar > add > commit;
+
